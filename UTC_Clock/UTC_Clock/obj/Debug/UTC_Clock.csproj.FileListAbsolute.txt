@@ -1,1 +1,9 @@
 D:\FH\4.Semester\Softwareparadigmen\UTC_Clock\UTC_Clock\bin\Debug\UTC_Clock.exe.config
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\bin\Debug\UTC_Clock.exe.config
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\obj\Debug\UTC_Clock.csprojResolveAssemblyReference.cache
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\bin\Debug\UTC_Clock.exe
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\bin\Debug\UTC_Clock.pdb
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\obj\Debug\UTC_Clock.exe
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\obj\Debug\UTC_Clock.pdb
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\obj\Debug\UTC_Clock.Digital.resources
+C:\Users\Teresa\Documents\Visual Studio 2013\Projects\SWP\UTC_Clock\UTC_Clock\obj\Debug\UTC_Clock.csproj.GenerateResource.Cache
